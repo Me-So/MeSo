@@ -1,7 +1,7 @@
-## project-3 (Weat)
+## MeSo
 
 Idea
-- https://weat-recipe.herokuapp.com/signin - Social media cooking recipe app. Add your unique recipe on app and share it with other users. You can add other people on your profile to get easy access to your favorite fellow chef and their recipes.
+- Social media cooking recipe app. Add your unique recipe on app and share it with other users. You can add other people on your profile to get easy access to your favorite fellow chef and their recipes.
 
 Packages to use
 - React
@@ -31,8 +31,5 @@ Future features
 
 
 Responsibilities
-- Eddie Front end
-- Rey - Front/back end floater (Project Manager)
-- Mauricio - Back end/Database
-- Michael - Back end/Database
+...
 # MeSo

@@ -22,7 +22,7 @@ Features
 
 Future features
 - Creating groups
-- Easily jump from one ERMM social media platform to another while maintaining independence of each other
+- Easily jump from one social media platform to another while maintaining independence of each other
 - Optimization to UI: button placement, easier navigation, image proportions, etc.
 - Food filter: search a specific type of cuisine
 - Quality, targeted advertising: ads for ingredients and where to find them
